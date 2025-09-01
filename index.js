@@ -16,7 +16,7 @@ const app = initializeApp(firebaseConfig);
 // const analytics = getAnalytics(app);
 const auth = getAuth();
 
-var email = "franciskiryowa68@gmail.com";
+var email = ".com";
 var password = "password123";
 
 signInWithEmailAndPassword(auth, email, password)
