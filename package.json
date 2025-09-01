@@ -1,0 +1,15 @@
+{
+  "name": "ekibiina_node",
+  "version": "1.0.0",
+  "description": "Testing user login with firebase",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^12.1.0"
+  }
+}
